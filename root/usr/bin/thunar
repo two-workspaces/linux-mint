@@ -1,0 +1,4 @@
+#!/bin/bash
+# From linuxserver webtop: Selkies' LD_PRELOAD breaks Thunar.
+unset LD_PRELOAD
+exec thunar-real "$@"
