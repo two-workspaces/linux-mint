@@ -1,6 +1,6 @@
 # Deploy and Host Linux Mint on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/linux-mint?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=linux-mint)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mint?referralCode=sLjDXb&utm_medium=integration&utm_source=button&utm_campaign=mint)
 
 This template runs a Linux Mint 22.3 "Zena" desktop with the Xfce edition's look in the cloud, streamed to any device through the [linuxserver.io](https://www.linuxserver.io/) Selkies web interface. Open your Railway domain, log in, and you get Mint's Whisker menu, Mint-Y theme and wallpaper, plus Firefox, a terminal, a file manager and `sudo`. Files and settings in your home directory persist between visits.
 
